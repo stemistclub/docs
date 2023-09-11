@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Chao](README.md)
+* [👋 Chào mừng bạn đến với Stemist Club](README.md)
 * [Robot là gì ?](robot-la-gi.md)
 * [Cơ cấu chấp hành (Actuator)](co-cau-chap-hanh-actuator.md)
 
