@@ -2,6 +2,7 @@
 
 * [Trang đầu](README.md)
 * [Robot là gì ?](robot-la-gi.md)
+* [Cơ cấu chấp hành (Actuator)](co-cau-chap-hanh-actuator.md)
 
 ## Lập trình <a href="#programming" id="programming"></a>
 

@@ -22,5 +22,5 @@ IoT mang lại nhất nhiều công dụng đến với đời sống con ngư�
 
 ## Đối với Robotics
 
-
+Như được đề cập ở [#cac-thanh-phan-cua-robot](../../robot-la-gi.md#cac-thanh-phan-cua-robot "mention"), mạch nhúng sẽ đóng vai trò là đơn vị điều khiển các cơ cấu chấp hành thông qua việc nhận đầu vào (Qua điều khiển, dựa vào cảm biến,....).&#x20;
 
