@@ -7,11 +7,11 @@
 ## Lập trình <a href="#programming" id="programming"></a>
 
 * [Bắt đầu với Lập trình](programming/bat-dau-voi-lap-trinh/README.md)
-  * [Lịch sử của khái niệm lập trình](programming/bat-dau-voi-lap-trinh/lich-su-cua-khai-niem-lap-trinh.md)
   * [Khái niệm về machine code](programming/bat-dau-voi-lap-trinh/khai-niem-ve-machine-code.md)
   * [Ngôn ngữ lập trình bậc cao và bậc thấp.](programming/bat-dau-voi-lap-trinh/ngon-ngu-lap-trinh-bac-cao-va-bac-thap..md)
   * [Lập trình nhúng - IoT và quan hệ của nó với Robotics.](programming/bat-dau-voi-lap-trinh/lap-trinh-nhung-iot-va-quan-he-cua-no-voi-robotics..md)
 * [Arduino](programming/arduino/README.md)
+  * [Cấu tạo của mạch Arduino](programming/arduino/cau-tao-cua-mach-arduino.md)
   * [Thiết lập môi trường phát triển cho Arduino](programming/arduino/thiet-lap-moi-truong-phat-trien-cho-arduino.md)
 * [Java (FTC SDK)](programming/java-ftc-sdk.md)
 
