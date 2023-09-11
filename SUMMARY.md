@@ -13,6 +13,7 @@
   * [Lập trình nhúng - IoT và quan hệ của nó với Robotics.](programming/bat-dau-voi-lap-trinh/lap-trinh-nhung-iot-va-quan-he-cua-no-voi-robotics..md)
 * [Arduino](programming/arduino/README.md)
   * [Thiết lập môi trường phát triển cho Arduino](programming/arduino/thiet-lap-moi-truong-phat-trien-cho-arduino.md)
+* [Java (FTC SDK)](programming/java-ftc-sdk.md)
 
 ## Thiết kế Cơ Khí <a href="#design-cad" id="design-cad"></a>
 
