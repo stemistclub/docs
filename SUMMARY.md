@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Trang đầu](README.md)
+* [Robot là gì ?](robot-la-gi.md)
 
 ## Lập trình <a href="#programming" id="programming"></a>
 
@@ -9,7 +10,8 @@
   * [Khái niệm về machine code](programming/bat-dau-voi-lap-trinh/khai-niem-ve-machine-code.md)
   * [Ngôn ngữ lập trình bậc cao và bậc thấp.](programming/bat-dau-voi-lap-trinh/ngon-ngu-lap-trinh-bac-cao-va-bac-thap..md)
   * [Lập trình nhúng - IoT và quan hệ của nó với Robotics.](programming/bat-dau-voi-lap-trinh/lap-trinh-nhung-iot-va-quan-he-cua-no-voi-robotics..md)
-* [Arduino](programming/arduino.md)
+* [Arduino](programming/arduino/README.md)
+  * [Thiết lập môi trường phát triển cho Arduino](programming/arduino/thiet-lap-moi-truong-phat-trien-cho-arduino.md)
 
 ## Thiết kế Cơ Khí <a href="#design-cad" id="design-cad"></a>
 
