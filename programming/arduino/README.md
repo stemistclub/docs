@@ -6,6 +6,8 @@ Arduino là một nền tảng mã nguồn mở bao gồm các bo mạch vi đi�
 
 Với những ưu thế đó, Arduino được sử dụng rất rộng rãi trong cộng đồng những người làm robot, thiết bị thông minh, sản phẩm DIY... cũng như trong môi trường giáo dục dành cho học sinh sinh viên thực hiện các dự án.
 
+Ngôn ngữ lập trình cho Arduino sử dụng C++, chính vì vậy với những ai đã từng tiếp xúc qua với ngôn ngữ này sẽ cảm thấy dễ dàng tiếp cận hơn.
+
 ## Tại sao lại dùng Arduino ?
 
 Nhờ sự đơn giản và dễ tiếp cận với người dùng, Arduino đã được sử dụng trên hàng ngàn dự án lớn nhỏ khác nhau và nhiều ứng dụng quanh nó. Phần mềm Arduino được đánh giá là rất thân thiện với người mới, mà vẫn có đủ tính linh động dành cho người dùng nâng cao. Nó có thể được phát triển trên Windows, macOS và Linux. Và nó được tạo ra để bất cứ ai cũng có thể sử dụng, thúc đẩy khả năng giáo dục STEM đến với mọi người.&#x20;
