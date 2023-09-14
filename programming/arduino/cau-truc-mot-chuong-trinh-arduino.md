@@ -23,7 +23,6 @@ void loop() {
 int myFunction(int x, int y) {
   return x + y;
 }
-
 ```
 
 Chương trình này bao gồm 2 hàm bắt buộc đó là `setup()` và `loop()` , ngoài ra còn có thêm hàm tự định nghĩa (trong trường hợp này là hàm `myFunction()` .&#x20;
@@ -38,11 +37,55 @@ Trong Arduino bắt buộc phải có sự tồn tại của hai hàm sau, đó 
 
 * Hàm `setup()` chỉ được thực thi tự động một lần duy nhất, đó là khi mạch được khởi động. Với hàm này ta thường dùng để định nghĩa như là kiểu đầu vào / ra của chân tín hiệu, khởi tạo giao tiếp serial với tốc độ (baudrate) chỉ định hoặc khởi tạo hàm thiết lập của một thư viện.
 * Hàm `loop()` là nơi mà chương trình chính của chúng ta sẽ được chạy như là một vòng lặp (lặp đi lặp lại cho đến khi nào mạch tắt nguồn), ví dụ như bật/tắt led sau 2 giây (2000 miliseconds), quay servo khi cảm biến được kích hoạt,...
-* Trong [#vi-du](cau-truc-mot-chuong-trinh-arduino.md#vi-du "mention") bạn sẽ thấy rằng trước hai hàm bắt buộc vừa kể trên có cụm từ **void** ở phía trước. **void** ở đây có nghĩa là hàm này sẽ không trả về một giá trị nào cả.
+* Trong [#vi-du](cau-truc-mot-chuong-trinh-arduino.md#vi-du "mention") bạn sẽ thấy rằng trước hai hàm bắt buộc vừa kể trên có cụm từ `void` ở phía trước. `void` ở đây có nghĩa là hàm này sẽ không trả về một giá trị nào cả.
 
 Những hàm trên là những hàm bắt buộc phải có trong chương trình Arduino, nhưng chúng ta luôn có thể tạo ra những hàm mới ví dụ như hàm `myFunction()` ,điều này hữu ích khi ta viết những chương trình phức tạp.&#x20;
 
 ## Quy trình chạy của Arduino
 
 Quy trình chạy của Arduino như các ngôn ngữ lập trình khác sẽ dịch và chạy chương trình từ trên xuống dưới của source code. Và giả sử chương trình đã được biên dịch và khởi động, chúng sẽ gọi hàm setup() đầu tiên và chỉ một lần duy nhất, sau đó là hàm loop() và sẽ chạy trong vòng lặp không ngừng.
+
+Và bởi vì chương trình cũng được biên dịch từ trên xuống, nên nếu bạn viết như sau, trình biên dịch sẽ báo lỗi:
+
+```cpp
+#include <Arduino.h>
+
+void setup() {
+  // put your setup code here, to run once:
+  int result = myFunction(2, 3);
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+}
+
+// put function definitions here:
+int myFunction(int x, int y) {
+  return x + y;
+}
+```
+
+```
+Compiler:
+src\main.cpp: In function 'void setup()':
+src\main.cpp:5:16: error: 'myFunction' was not declared in this scope
+```
+
+Do khi chương trình dịch đến dòng `int result = myFunction(2, 3);`trình biên dịch sẽ nhận ra rằng nó không tìm thấy hàm nào có tên là `myFunction()` dẫn đến việc trình biên dịch sẽ để lại lỗi như trên bất chấp ở các dòng dưới hàm `myFunction()` đã được định nghĩa.&#x20;
+
+Giải pháp cho vấn đề này đó là định nghĩa trước về hàm:
+
+```cpp
+#include <Arduino.h>
+
+// put function declarations here:
+int myFunction(int, int);
+
+void setup() {
+  // put your setup code here, to run once:
+  int result = myFunction(2, 3);
+}
+```
+
+Cho dù hàm không có nội dung bên trong hàm, mà nội dung hàm chỉ được định nghĩa ở cuối chương trình, nhưng khi biên dịch thì trình biên dịch sẽ tự ghi đè nội dung của hàm.&#x20;
 
