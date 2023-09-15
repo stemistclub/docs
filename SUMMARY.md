@@ -25,3 +25,10 @@
   * [Mở đầu](design-cad/bat-dau-voi-thiet-ke-co-khi/mo-dau.md)
   * [Quy trình thiết kế](design-cad/bat-dau-voi-thiet-ke-co-khi/quy-trinh-thiet-ke.md)
 * [Hướng dẫn với Fusion 360](design-cad/huong-dan-voi-fusion-360.md)
+
+## Cơ Khí
+
+* [DRIVEBASE](co-khi/drivebase.md)
+* [INTAKE](co-khi/intake.md)
+* [CLIMBER](co-khi/climber.md)
+* [SHOOTER](co-khi/shooter.md)
