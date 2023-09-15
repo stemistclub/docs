@@ -8,7 +8,7 @@ description: Một lần nữa, bạn hoàn toàn có thể bỏ qua phần này
 
 Trước hết đây là bảng so sánh giữa ngôn ngữ lập trình bậc cao với ngôn ngữ lập trình bậc thấp:
 
-<table><thead><tr><th width="190.33333333333331">Tính năng</th><th width="273">Bậc Cao</th><th>Bậc Thấp</th></tr></thead><tbody><tr><td>Độ "trừu tượng"</td><td>Cao</td><td>Thấp</td></tr><tr><td>Tính di động</td><td>Cao</td><td>Thấp</td></tr><tr><td>Độ khó</td><td>Dễ hơn</td><td>Khó hơn</td></tr><tr><td>Độ hiệu quả</td><td>Kém hơn</td><td>Tốt hơn</td></tr><tr><td>Ví dụ</td><td>Python, Java, JavaScript</td><td>C, C++, Assembly</td></tr></tbody></table>
+<table><thead><tr><th width="273">Bậc Cao</th><th>Bậc Thấp</th><th>Tính năng</th></tr></thead><tbody><tr><td>Cao</td><td>Thấp</td><td>Độ "trừu tượng"</td></tr><tr><td>Cao</td><td>Thấp</td><td>Tính di động</td></tr><tr><td>Dễ hơn</td><td>Khó hơn</td><td>Độ khó</td></tr><tr><td>Kém hơn</td><td>Tốt hơn</td><td>Độ hiệu quả</td></tr><tr><td>Python, Java, JavaScript</td><td>C, C++, Assembly</td><td>Ví dụ</td></tr></tbody></table>
 
 Đây là ví dụ về một chương trình bậc cao sử dụng Python:&#x20;
 
