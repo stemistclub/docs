@@ -1,6 +1,6 @@
 # Cấu tạo của mạch Arduino
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Cấu tạo của mạch Arduino Uno R3 - arduino.cc</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Cấu tạo của mạch Arduino Uno R3 - arduino.cc</p></figcaption></figure>
 
 1. Vi điều khiển (Microcontroller) là nơi điều khiển tất cả các hoạt động của mạch, đóng vai trò là "bộ não" xử lí mọi tín hiệu và điều khiển chúng.
 2. Cổng USB (USB Port) là cổng USB Type B, có tác dụng giao tiếp qua phương thức Serial giữa máy tính với mạch điều khiển.
