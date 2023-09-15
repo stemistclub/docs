@@ -29,9 +29,9 @@
 
 ## Cơ Khí
 
-* [ROBOTICS KIT](co-khi/robotics-kit/README.md)
+* [Robotics Kit](co-khi/robotics-kit/README.md)
   * [Kit K12 Marker](co-khi/robotics-kit/kit-k12-marker.md)
-* [INTAKE](co-khi/intake.md)
 * [CLIMBER](co-khi/climber.md)
 * [SHOOTER](co-khi/shooter.md)
 * [DRIVEBASE](co-khi/drivebase.md)
+* [INTAKE](co-khi/intake.md)

@@ -59,9 +59,9 @@ Bộ kit K12 Maker được ra đời để giúp các bạn trẻ vượt qua t
    *
 5. **Động cơ servo MG996r 180/360 độ.**
    *
-6. **Nhôm định hình 1515 và các phụ kiện gá, bánh xe,...**
+6. **Nhôm định hình 1515.**
    *
-7.
+7. **Các phụ kiện gá, bánh xe,...**
    *
 
 
