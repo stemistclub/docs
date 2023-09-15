@@ -54,7 +54,15 @@ Bộ kit K12 Maker được ra đời để giúp các bạn trẻ vượt qua t
 2. **Bộ gamepad RF.**
    *
 3. **Pin lipo 3s 11.1V 2600mAh.**
-   *
+   * Pin Lipo ShangYi 11.1v 3s 2600mAh 45C
+   * Nhãn hiệu: ShangYi
+   * Số cell pin: 3
+   * Dòng: 2600mAh
+   * Điện áp: 11.1V
+   * Dòng xả: 35C
+   * Trọng lượng: Khoảng 210g
+   * Kích thước: 120x34x25mm
+   * Đầu cắm: EC3
 4. **Các động cơ DC 555 12V 180/300/1500RPM.**
    *
 5. **Động cơ servo MG996r 180/360 độ.**
