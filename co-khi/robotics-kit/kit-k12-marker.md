@@ -65,8 +65,24 @@ Bộ kit K12 Maker được ra đời để giúp các bạn trẻ vượt qua t
    * Đầu cắm: EC3
 4. **Các động cơ DC 555 12V 180/300/1500RPM.**
    *
-5. **Động cơ servo MG996r 180/360 độ.**
-   *
+5.  **Động cơ servo MG996r 180/360 độ.**
+
+    * Servo MG996R (nâng cấp MG995) có momen xoắn lớn. Đây là bản nâng cấp từ servo MG995 về tốc độ, lực kéo và độ chính xác đồng thời vừa nhanh hơn và cũng vừa nhỏ gọn hơn.
+    * Momen làm việc : 11kg/cm (tại điện áp 6V) , 9.4kg/cm (tại điện áp 4.8V)
+    * Tốc độ xoay: 0.17 giây / 60 độ (4.8 v) 0.14 giây / 60 độ (6 v)
+    * Điện áp làm việc: 4.8-7.2V
+    * Nhiệt độ hoạt động: -30 ℃ \~ 60 ℃
+    * Chiều dai dây: 30cm, dây nâu đỏ là 2 dây nguồn, dây vàng là dây tín hiệu
+    * Vật liệu bánh răng: Kim loại
+    * Trọng lượng: 65g
+
+    Việc điều khiển servo thường yêu cầu xung với thời gian khoảng 20ms, xung điều khiển góc trong phạm vi 0.5 – 2.5ms, với tổng thời gian là 2ms.
+
+    * 5ms -> 0 độ
+    * 0ms – > 45 độ
+    * 5ms -> 90 độ
+    * 0ms -> 135 độ
+    * 5ms -> 180 độ
 6. **Nhôm định hình 1515.**
    *
 7. **Các phụ kiện gá, bánh xe,...**
