@@ -1,5 +1,5 @@
 ---
-description: Nguồn được lấy từ Marker Viê
+description: Nguồn được lấy từ Marker Việt.
 ---
 
 # Kit K12 Marker
