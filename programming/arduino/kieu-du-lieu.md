@@ -25,3 +25,24 @@ Là kiểu dữ liệu dùng để lưu trữ các số thập phân (ví dụ n
 * `double` thì lại có thể lưu trữ được đến 15 chữ số.&#x20;
 * Với các phép tính toán, bạn nên dùng `double` để đảm bảo về độ chính xác.
 
+### Boolean, ký tự và kiểu sâu.
+
+#### Boolean
+
+* Là kiểu dữ liệu được định nghĩa bằng từ khoá `bool` và chỉ có thể nhận được hai giá trị duy nhất đó là `True` hoặc `False`.&#x20;
+* Khi Boolean được trả về sẽ trả về `True` = `1` hoặc `False` = `0`.
+* Kiểu ký tự `bool` có kích cỡ là 1 byte.
+* Kiểu Boolean thường hay được sử dụng để làm điều kiện kiểm tra, và sẽ được nhắc đến trong hàm điều kiện.
+
+#### Ký tự
+
+Kiểu dữ liệu `char` được dùng để lưu trữ duy nhất 1 ký tự. Và được bao quanh bởi dấu nháy đơn (Ví dụ như `'A'` hoặc `'x'` ).
+
+Kiểu ký tự `char` có kích cỡ là 1 byte.
+
+#### Kiểu sâu
+
+Kiểu `string` được dùng để lưu trữ một dãy các ký tự. Và được bao quanh bởi dấu nháy kép (Ví dự như `"Stemist Club"` hay `"Chao"` )
+
+Trong C, kiểu sâu thậm chí không tồn tại, và các để có được dạng kiểu sâu này đó chính là việc dùng mảng với kiểu char. Trong C++, để dùng string ta cần thêm thư viện `<string>`. Nhưng trong Arduino đã có kiểu dữ sâu sẵn đó là String (với chữ S viết hoa). Nó hoạt động tương tự như kiểu sâu trong C++, là mảng chứa các ký tự khác nhau, điều này sẽ được đề cập rõ hơn ở phần Mảng.&#x20;
+
