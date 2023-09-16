@@ -18,7 +18,7 @@ Bộ kit K12 Maker được ra đời để giúp các bạn trẻ vượt qua t
 
 
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p><strong>Mạch điều khiển VIA</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p><strong>Mạch điều khiển VIA</strong></p></figcaption></figure>
 
 <mark style="color:red;">VỀ MẠCH ĐIỀU KHIỂN VIA:</mark>
 
@@ -35,7 +35,7 @@ Bộ kit K12 Maker được ra đời để giúp các bạn trẻ vượt qua t
 
 
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p><strong>Mạch công suất VIA</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p><strong>Mạch công suất VIA</strong></p></figcaption></figure>
 
 <mark style="color:red;">**VỀ MẠCH CÔNG SUẤT VIA:**</mark>
 
@@ -46,13 +46,13 @@ Bộ kit K12 Maker được ra đời để giúp các bạn trẻ vượt qua t
 * Header GPIO mở rộng: 6 chân GPIO, 2 chân cấp nguồn 5V-GND
 *
 
-    <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2. **Bộ gamepad RF.**
 
 * Tay điều khiển PS2 Wireless Controller có chất lượng tốt, độ bền cao, khả năng bắt sóng lên đến 10m
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Tay cầm PS2 và Reciver</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Tay cầm PS2 và Reciver</p></figcaption></figure>
 
 * _**Lưu ý:**_ bộ nhận tín hiệu của Tay điều khiển PS2 Wireless Controller sử dụng điện áp 3.3VDC cho cấp nguồn và giao tiếp, nếu các bạn giao tiếp với các vi điều khiển 5VDC thì cần thêm 1 đế chuyển mức điện áp giao tiếp từ 5VDC sang 3.3VDC để tránh trường hợp bộ nhận tín hiệu của tay bị cháy.
 * Thông số cơ bản:
@@ -66,6 +66,8 @@ Bộ kit K12 Maker được ra đời để giúp các bạn trẻ vượt qua t
 
 ### 3. **Pin lipo 3s 11.1V 2600mAh.**
 
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Pin lipo 3s 11.1V 2600mAh.</p></figcaption></figure>
+
 * Pin Lipo ShangYi 11.1v 3s 2600mAh 45C
 * Nhãn hiệu: ShangYi
 * Số cell pin: 3
@@ -75,6 +77,10 @@ Bộ kit K12 Maker được ra đời để giúp các bạn trẻ vượt qua t
 * Trọng lượng: Khoảng 210g
 * Kích thước: 120x34x25mm
 * Đầu cắm: EC3
+
+Pin còn đi kèm với một vôn kế giúp đo pin.
+
+
 
 ### 4. **Các động cơ DC 555 12V 180/300/1500RPM.**
 
