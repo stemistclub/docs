@@ -42,7 +42,17 @@ Cũng tương tự với Zip Tie Intake nhưng hiệu quả hơn cơ chế này 
 
 ### 3. Rubber Band Intake
 
+* Nguyên lý hoạt động:&#x20;
+  * Thường có bánh xích, bánh xe hoặc bánh răng ở hai đầu, với các dải cao su xen kẽ ở giữa để tạo thành một con lăn dẻo và có thể uốn cong.
+  * Dây cao su có tính đàn hồi và bám dính tốt, giúp nắm chặt các gamepiece và kéo chúng vào trong robot.
+* Điểm mạnh:
+  * Hoạt động tốt với việc lấy gamepiece dạng hình cầu.
+  * Hoạt động với được nhiều loại gamepiece hình dạng khác nhau
+* Điểm yếu:
+  * Không tối ưu với một số loại gamepiece như là hộp, ...
+  * Dễ kẹt ở bánh rănh, bánh xích, bánh xe ở hai đầu.
 
+{% embed url="https://www.youtube.com/shorts/GplqvguW--0" %}
 
-
+### 4. Roller and Wheeled Intake
 
