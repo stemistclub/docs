@@ -1,17 +1,23 @@
 # Toán tử so sánh
 
-Đơn giản thì nó cũng như các phép so sánh mà chúng ta đã đc học nhưng thêm 1 số phép so sánh mới.
+Toán tử so sánh là các toán tử được dùng để so sánh giữa 2 giá trị với nhau.
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Toán tử so sánh : cre by w3school.com</p></figcaption></figure>
+Giá trị trả về của toán tử so sánh là kiểu Boolean, có nghĩa là gồm 2 giá trị là True (`1`) hoặc False (`0`) .&#x20;
 
-Đơn giản thì nó sẽ trông như này
+{% hint style="info" %}
+Toán tử so sánh rất quan trọng đối với lập trình, vì nó giúp chúng ta điều hướng và tìm ra giải pháp.
+{% endhint %}
 
-```cpp
-// Some code
-int a = 10, b = 3; // tức là a != b (a ko bằng b)
-int a = 10, b = 10; // tức là a == b( a bằng b)
-int a = 10, b = 3; // tức là a > b (a lớn hơn b)
-int a = 1, b = 3; // tức là a < b (a bé hơn b)
-int a = 10, b = 3; // gộp lại a >= b (a lớn hơn hoặc bằng b)
-int a = 1, b = 3; // a <= b (a bé hơn hoặc bằng b)
+Trong ví dụ sau, chúng ta sử dụng toán tử > để tìm xem liệu 5 có lớn hơn 3 hay không:
+
 ```
+int x = 5;
+int y = 3;
+bool result = x > y; // Trả về 1 (True) vì 5 > 3.
+```
+
+<table data-full-width="false"><thead><tr><th>Toán tử</th><th>Định nghĩa</th><th>Ví dụ</th></tr></thead><tbody><tr><td>!=</td><td>Không bằng</td><td>x != y</td></tr><tr><td>></td><td>Lớn hơn </td><td>x > y</td></tr><tr><td>&#x3C;</td><td>Nhỏ hơn</td><td>x &#x3C; y</td></tr><tr><td>>=</td><td>Lớn hơn hoặc bằng</td><td>x >= y</td></tr><tr><td>&#x3C;=</td><td>Nhỏ hơn hoặc bằng</td><td>x &#x3C;= y</td></tr></tbody></table>
+
+{% hint style="info" %}
+Đây là các toán tử rất quen thuộc với các bạn vì các toán tử này bạn đều đã được gặp trong chương trình Toán THCS.
+{% endhint %}

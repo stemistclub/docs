@@ -1,49 +1,14 @@
 # Toán tử logic
 
-Với toán tử nó sẽ trả về giá trị true (1) và false (0)
+Giống với toán tử so sánh, toán tử logic là toàn tử sẽ trả về giá trị kiểu Boolean. Nhưng toán tử logic là loại toán tử dùng để xử lí trạng thái của các điều kiện con hay điều kiện logic.
 
-{% hint style="info" %}
-Thường được sử dụng trong câu điều kiện if else
-{% endhint %}
+Trong ví dụ sau, chương trình sẽ trả về `0` (False) nếu cả 2 điều kiện ở dưới không thoả mãn, và trả về `1` (True) nếu chỉ 1 trong 2 điều kiện bất kỳ thoả mãn:&#x20;
 
->
+<pre class="language-cpp"><code class="lang-cpp">int x = 5;
+int y = 3;
+<strong>bool result x > 3 || x &#x3C; 4; // True vì x > 3. 
+</strong></code></pre>
 
-Sau đây là tổng quan:&#x20;
+Sau đây là các toán tử logic thường dùng:
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Tổng quan. Cre by w3school.com</p></figcaption></figure>
-
-
-
-* Toán tử Logic && (toán tử và ): đây là toán tử giúp thực hiện động thời 2 nhiệm vụ
-
-```cpp
-// sử dụng để làm điều kiện
-x > 5 && x < 10
-// Khi nhập giá trị vào nếu x thuộc {6,7,8,9} thì sẽ return True
-// Khi giá trị nằm ngoài khoảng đó thì return false
-int x; cin >> x;
-if(x > 5 && x < 10){ // nếu x thoả mãn đồng thời 2 điều kiện thì in ra x
-    cout << x;
-}
-```
-
-* Toán tử Logic || (toán tử hoặc): thay vì thoả mãn cả 2 điều kiện thì nếu x mà thoả mãn 1 trong 2 thì đều đc chấp nhận
-
-```cpp
-int x; cin >> x;
-if (x > 5 || x < 3){ // nếu x > 5 hoặc x < 3 thì điều kiện thoả mãn vd: 10 hoặc 1
-    cout << x;
-}
-```
-
-* Toán tử Logic !(toán tử ngược hoặc khác): để sử dụng trong các trường hợp kết quả mong muốn phải khác.
-
-```cpp
-// 
-int i = 8;
-if (i != 9) cout << i; // kiểm tra nếu i khác 9 thì sẽ in ra. ở đây 8 khác 9 nên sẽ đc in
-```
-
-{% hint style="info" %}
-Khi sử dụng ! đồng nghĩa với việc giá trị false thì mới chạy
-{% endhint %}
+<table><thead><tr><th width="162" align="center">Toán tử</th><th width="108" align="center">Tên</th><th width="170" align="center">Biểu thức</th><th align="center">Ý nghĩa</th></tr></thead><tbody><tr><td align="center">&#x26;&#x26;</td><td align="center">AND</td><td align="center">X &#x26;&#x26; Y</td><td align="center">true nếu cả X và Y đều đúng</td></tr><tr><td align="center">||</td><td align="center">OR</td><td align="center">X || Y</td><td align="center">true nếu ít nhất một trong hai vế X hoặc Y đúng</td></tr><tr><td align="center">!</td><td align="center">NOT</td><td align="center">! X</td><td align="center">true nếu X sai và false nếu X đúng</td></tr></tbody></table>
