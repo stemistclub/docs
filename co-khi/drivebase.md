@@ -6,13 +6,13 @@
 * Không chỉ thế, tất cả các bộ phận khác của một con bot đều gắn với drivebase nên nó cũng chính là thành phần quan trọng nhất của một con bot hoàn thiện.
 * Drivebase thường có dạng một khung hình vuông hoặc hình chữ nhật được ghép bởi các thanh nhôm định hình và có những thiết kế đặc thù cho từng loại drivebase khác nhau.
 
-<figure><img src="https://lh5.googleusercontent.com/6KE7kZ2hDDqJ2NI4OBnPKlP-FcrUy7InNP9XkAMmuP1ffxp8P-OUo2f1v3zFYub6YLHSdoDpOXwZtgBukwlZMCqL1CWUz9jDq_1Me_-g_AJezSV49aiu2OlvqUATJYguHBrmjhYgXs7eNK7Eti-qg3o" alt=""><figcaption><p>1.1, Type of Drivebase: Tank</p></figcaption></figure>
+<figure><img src="https://lh5.googleusercontent.com/6KE7kZ2hDDqJ2NI4OBnPKlP-FcrUy7InNP9XkAMmuP1ffxp8P-OUo2f1v3zFYub6YLHSdoDpOXwZtgBukwlZMCqL1CWUz9jDq_1Me_-g_AJezSV49aiu2OlvqUATJYguHBrmjhYgXs7eNK7Eti-qg3o" alt=""><figcaption><p><mark style="color:blue;">1.1, Type of Drivebase: Tank</mark></p></figcaption></figure>
 
 {% embed url="https://www.youtube.com/watch?v=FLnUZBHBczM" %}
-1.2, Type of Drivebase: Swerve
+<mark style="color:blue;">1.2, Type of Drivebase: Swerve</mark>
 {% endembed %}
 
-<figure><img src="https://lh5.googleusercontent.com/fpUC2_P06URBkpDqH7Y3-kkhRTolEN7FkyLkLUfsPrMGbgEtddoIbBQhcj2FW4_4TQ_fChZNNPQ-qBTk3MrnEH7TUiERW3vaMs7-OIqX_IOetgdT0NGlOSLHRn6YSeVFCFFib2N97fDxwZ-fouhgRCs" alt=""><figcaption><p>1.3, Type of Drivebase: VRC Drivebase</p></figcaption></figure>
+<figure><img src="https://lh5.googleusercontent.com/fpUC2_P06URBkpDqH7Y3-kkhRTolEN7FkyLkLUfsPrMGbgEtddoIbBQhcj2FW4_4TQ_fChZNNPQ-qBTk3MrnEH7TUiERW3vaMs7-OIqX_IOetgdT0NGlOSLHRn6YSeVFCFFib2N97fDxwZ-fouhgRCs" alt=""><figcaption><p><mark style="color:blue;">1.3, Type of Drivebase: VRC Drivebase</mark></p></figcaption></figure>
 
 ### **B. Một số loại Drivebase phổ biến**&#x20;
 
@@ -25,7 +25,7 @@
 * Điểm yếu: Di chuyển đa hướng khó linh hoạt, bị trơn trượt trên sàn
 *
 
-    <figure><img src="https://lh5.googleusercontent.com/fpUC2_P06URBkpDqH7Y3-kkhRTolEN7FkyLkLUfsPrMGbgEtddoIbBQhcj2FW4_4TQ_fChZNNPQ-qBTk3MrnEH7TUiERW3vaMs7-OIqX_IOetgdT0NGlOSLHRn6YSeVFCFFib2N97fDxwZ-fouhgRCs" alt=""><figcaption><p>II.1, Type of Drivebase: VRC Drivebase</p></figcaption></figure>
+    <figure><img src="https://lh5.googleusercontent.com/fpUC2_P06URBkpDqH7Y3-kkhRTolEN7FkyLkLUfsPrMGbgEtddoIbBQhcj2FW4_4TQ_fChZNNPQ-qBTk3MrnEH7TUiERW3vaMs7-OIqX_IOetgdT0NGlOSLHRn6YSeVFCFFib2N97fDxwZ-fouhgRCs" alt=""><figcaption><p><mark style="color:blue;"><strong>II.1, Type of Drivebase: VRC Drivebase</strong></mark></p></figcaption></figure>
 
 2. **Drivebase Tank**
 
