@@ -81,6 +81,7 @@ Quy tắc đặt tên biến thông dụng là:
 * Đặt tên biến theo kiểu camelCase hoặc PascalCase.
 * Đối với biến toàn cục (global) thì nên thêm tiền tố g\_ hoặc một cách khác để phân biệt được biến nội bộ với biến toàn cục.&#x20;
 * Đối với các hằng số, sử dụng chữ hoa và dấu gạch dưới để phân cách các từ, ví dụ:  `const unsigned int MAX_PWM = 4096`.
+* Đối với các hàm trả về giá trị boolean, nên đặt tên theo kiểu isSomething() hoặc hasSomething().
 {% endhint %}
 
 ## Hằng số

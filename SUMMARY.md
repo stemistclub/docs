@@ -19,7 +19,11 @@
   * [Cấu trúc một chương trình Arduino](programming/arduino/cau-truc-mot-chuong-trinh-arduino.md)
   * [Biến trong C++](programming/arduino/bien-trong-c++.md)
   * [Kiểu dữ liệu định sẵn](programming/arduino/kieu-du-lieu.md)
-  * [Toán tử](programming/arduino/toan-tu.md)
+  * [Toán tử](programming/arduino/toan-tu/README.md)
+    * [Toán tử số học](programming/arduino/toan-tu/toan-tu-so-hoc.md)
+    * [Toán tử gán](programming/arduino/toan-tu/toan-tu-gan.md)
+    * [Toán tử so sánh](programming/arduino/toan-tu/toan-tu-so-sanh.md)
+    * [Toán tử logic](programming/arduino/toan-tu/toan-tu-logic.md)
 * [Java (FTC SDK)](programming/java-ftc-sdk.md)
 
 ## Thiết kế Cơ Khí <a href="#design-cad" id="design-cad"></a>
