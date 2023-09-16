@@ -1,73 +1,62 @@
 # Toán tử số học
 
-Toán tử số học hiểu đơn giản là các phép tính toán đơn giản mà chúng ta đã được học từ bé tới giờ, khi học C++ nó được mở rộng thêm 1 vài thứ hay ho giúp ích cho chúng ta rất nhiều.
+Toán tử số học hiểu đơn giản là các phép tính toán đơn giản mà chúng ta đã được học ngay từ bậc Tiểu học.&#x20;
 
-**TỔNG QUAN:**
+<table data-full-width="false"><thead><tr><th width="121">Toán tử</th><th width="134">Định nghĩa</th><th width="315">Giải thích</th><th width="225">Ví dụ</th></tr></thead><tbody><tr><td>+</td><td>Cộng</td><td>Cộng hai số hạng với nhau</td><td>x + y</td></tr><tr><td>-</td><td>Trừ</td><td>Trừ số thứ nhất cho số thứ 2</td><td>x - y</td></tr><tr><td>*</td><td>Nhân</td><td>Nhân 2 số</td><td>x * y</td></tr><tr><td>/</td><td>Chia </td><td>Chia số thứ nhất cho số thứ 2</td><td>x / y</td></tr><tr><td>%</td><td>Chia lấy dư</td><td>Trả về số dư của phép chia </td><td>x % y</td></tr><tr><td>++</td><td>Thăng</td><td>Tăng giá trị của một biến lên 1</td><td>++x</td></tr><tr><td>--</td><td>Giáng</td><td>Giảm giá trị của một biến xuống 1</td><td>--x</td></tr></tbody></table>
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-16 140409.png" alt=""><figcaption></figcaption></figure>
+Để hiểu sâu hơn, chúng ta cùng xem qua các ví dụ để được cách hoạt động của toán tử số học.&#x20;
 
-Để hiểu sâu hơn , chúng ta cùng xem qua các ví dụ để biêt đc cách hoạt động của toán tử số học.&#x20;
-
-
-
-* Toán tử: <mark style="color:blue;">+ (cộng / addition)</mark>:&#x20;
+* Toán tử: `+` <mark style="color:blue;">(Cộng / Addition)</mark>:&#x20;
 
 ```cpp
 int a = 10, b = 3;
-cout << a + b;
-// trên màn hình sẽ in ra: 13 (Kết quả của a + b)
+int sum << a + b; // 13 (Kết quả của a + b)
 ```
 
-* Toán tử: <mark style="color:blue;">- (trừ / Subtraction )</mark>:&#x20;
+* Toán tử: `-` <mark style="color:blue;">(Trừ / Subtraction)</mark>:&#x20;
 
 ```cpp
 int a = 10, b = 3;
-cout << a - b:
-// trên màn hình sẽ in ra: 7 (kết quả của a - b)
+int sub << a - b: // 7 (Kết quả của a - b)
 ```
 
-* Toán tử: <mark style="color:blue;">\* (nhân / Multiplication)</mark>:&#x20;
+* Toán tử: <mark style="color:blue;">`*`</mark> <mark style="color:blue;"></mark><mark style="color:blue;">(Nhân / Multiplication)</mark>:&#x20;
 
 ```cpp
 int a = 10, b = 3;
-cout << a * b;
-// trên màn hình sẽ in ra: 30 (kết quả của a * b)
+int mul << a * b; // 30 (Kết quả của a * b) 
 ```
 
-* Toán tử: <mark style="color:blue;">/ (chia / Division)</mark>:
+* Toán tử: `/` <mark style="color:blue;">(Chia / Division)</mark>:
 
 ```cpp
 int a = 10, b = 3;
-cout << a / b;
-// trên màn hình sẽ in ra: 3 
+int divis << a / b; // 3 (Kết quả của a/b nhưng trả về giá trị nguyên)
 ```
 
 {% hint style="info" %}
-Lưu ý: vì chúng ta khai báo a và b là số nguyên nên kết quả sẽ chỉ lấy phần nguyên
+Vì chúng ta khai báo biến a và b là số nguyên nên kết quả sẽ chỉ lấy phần nguyên
 
 a / b = 3,333 nhưng khi khai báo là int thì => a / b = 3
 {% endhint %}
 
-* Toán tử: <mark style="color:blue;">% (chia lấy dư / Modulus)</mark>: đây là phép tính mới, được mô tả là lấy số dư của phép tính chia
+* Toán tử: `%` <mark style="color:blue;">(Chia lấy dư / Modulus)</mark>:
 
 ```cpp
 int a = 10, b = 3;
-cout << a % b;
-// kết quả sẽ in ra là: 1 (vì 10 / 3 = 3 và dư 1)
+cout << a % b; // 1 (vì 10 / 3 = 3 và dư 1)
 ```
 
-* Toán tử: <mark style="color:blue;">++ (tăng / Increment)</mark> : đơn giản là tăng lên 1 số
+* Toán tử: `++` <mark style="color:blue;">(Thăng / Increment):</mark>
 
 ```cpp
 int a = 10, b = 3;
-cout << ++a << " " << ++b;
-// màn hình sẽ in ra số: 11 4
+cout << ++a << " " << ++b; // 11 4
 ```
 
-Toán tử: <mark style="color:blue;">--(giảm / Decrement)</mark>: giảm 1 số
+Toán tử: `--` <mark style="color:blue;">(Giáng / Decrement)</mark>: giảm 1 số.
 
 ```cpp
 int a = 10, b = 3;
-cout << --a <<  " " << --b;
-// in ra: 9 2
+cout << --a <<  " " << --b; // 9 2
 ```
