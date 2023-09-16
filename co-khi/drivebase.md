@@ -14,9 +14,9 @@
 
 <figure><img src="https://lh5.googleusercontent.com/fpUC2_P06URBkpDqH7Y3-kkhRTolEN7FkyLkLUfsPrMGbgEtddoIbBQhcj2FW4_4TQ_fChZNNPQ-qBTk3MrnEH7TUiERW3vaMs7-OIqX_IOetgdT0NGlOSLHRn6YSeVFCFFib2N97fDxwZ-fouhgRCs" alt=""><figcaption><p><mark style="color:blue;">1.3, Type of Drivebase: VRC Drivebase</mark></p></figcaption></figure>
 
-### **B. Một số loại Drivebase phổ biến**&#x20;
+## **B. Một số loại Drivebase phổ biến**&#x20;
 
-1. **VRC Drivebase**&#x20;
+### 1. VRC Drivebase
 
 * Đây là một loại drivebase khá phổ biến ở các giải thi đấu ở Việt Nam.
 * Bao gồm: 2 bánh phay nhôm, 2 bánh đa hướng và 2 động cơ 300 (VRC)&#x20;
@@ -27,7 +27,7 @@
 
     <figure><img src="https://lh5.googleusercontent.com/fpUC2_P06URBkpDqH7Y3-kkhRTolEN7FkyLkLUfsPrMGbgEtddoIbBQhcj2FW4_4TQ_fChZNNPQ-qBTk3MrnEH7TUiERW3vaMs7-OIqX_IOetgdT0NGlOSLHRn6YSeVFCFFib2N97fDxwZ-fouhgRCs" alt=""><figcaption><p><mark style="color:blue;"><strong>II.1, Type of Drivebase: VRC Drivebase</strong></mark></p></figcaption></figure>
 
-2. **Drivebase Tank**
+### 2. **Drivebase Tank**
 
 * Còn đây là loại drivebase dành cho các đội mới của các giải robotics quốc tế (FGC, FRC, FTC, …)
 * Bao gồm: 4 bánh phay nhôm, 2 động cơ DC, nhông xích
@@ -35,7 +35,7 @@
 * Điểm mạnh: Ma sát tốt nên khả năng bám trên mặt đường tốt, có thể rẽ được sang các hướng khác nhau. Truyền động bằng xích nên khá chắc chắn, đảm bảo tốc độ các bánh bằng nhau.
 * Điểm yếu: Việc di chuyển đa hướng vẫn có một số bất tiện, chưa được linh hoạt.
 
-3. **Drivebase Mecanum**
+### 3. **Drivebase Mecanum**
 
 * Bao gồm: 4 bánh mecanum, 4 động cơ DC
 * Nguyên lý hoạt động: Loại drivebase này hữu dụng hơn loại trên về mặt di chuyển trên mặt đất, tuy chỉ có 4 bánh mecanum nhưng loại này vô cùng linh hoạt trong việc di chuyển đa hướng (đi ngang, đi chéo mọi hướng). Hộp số được lắp đặt trực tiếp vào 4 bánh, mỗi hộp số 1 motor.
@@ -47,7 +47,7 @@
 \
 
 
-4. **Drivebase X**
+### 4. **Drivebase X**
 
 * Bao gồm 4 bánh omi và 4 động cơ
 * Nguyên lý hoạt động: X-Drive là một hệ thống truyền động dựa trên bánh xe omni holonomic. Loại truyền động này bao gồm việc lắp đặt 4 bánh xe omni ở góc của robot với góc 45 độ.
@@ -55,3 +55,9 @@
 *   Điểm yếu: Hệ thống truyền động nên chiếm nhiều không gian
 
     <figure><img src="https://lh3.googleusercontent.com/7oJr8Jd617pmfF_X-s8P16WybLPay5MDeSQnl4rIDGDvskg5kjAQOQ6iNYA54bd6f0A9dQrAgEScCtHFZqB-TJUPPJ8pq7z9mX72r00fUwltsHtoYyVhKodfkdLAjo3vdI6Wj5S57CBoqKH0B0YTSZk" alt=""><figcaption></figcaption></figure>
+
+
+
+### 5. Một số loại Drivebase khác
+
+* Các bạn muốn tham khảo thêm các loại Drivebase khác thì vào đây: [https://www.ndsubisonrobotics.org/uploads/5/9/8/8/59888285/frc\_drivetrains.pdf?fbclid=IwAR1SsB5aoRhWB2GtbZPL1TLL0Pv705rZE-2SvEnYiXLfZ2e7\_ZX3H68SpWs](https://www.ndsubisonrobotics.org/uploads/5/9/8/8/59888285/frc\_drivetrains.pdf?fbclid=IwAR1SsB5aoRhWB2GtbZPL1TLL0Pv705rZE-2SvEnYiXLfZ2e7\_ZX3H68SpWs)
