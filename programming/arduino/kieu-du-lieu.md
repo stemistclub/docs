@@ -1,6 +1,15 @@
 # Kiểu dữ liệu định sẵn
 
-Mỗi dữ liệu khi lưu trữ đều có kiểu dữ liệu riêng của nó, sau đây là các biến phổ biến:&#x20;
+Mỗi dữ liệu khi lưu trữ đều có kiểu dữ liệu riêng của nó, sau đây là các kiểu dữ liệu phổ biến:&#x20;
+
+```cpp
+int myNum = 5;               // Số nguyên
+float myFloatNum = 5.99;     // Số thực
+double myDoubleNum = 9.98;   // Số thực
+bool myBoolean = true;       // Boolean
+char myLetter = 'D';         // Ký tự
+string myText = "Hello";     // Kiểu sâu
+```
 
 ### Số nguyên
 
@@ -44,5 +53,15 @@ Kiểu ký tự `char` có kích cỡ là 1 byte.
 
 Kiểu `string` được dùng để lưu trữ một dãy các ký tự. Và được bao quanh bởi dấu nháy kép (Ví dự như `"Stemist Club"` hay `"Chao"` )
 
-Trong C, kiểu sâu thậm chí không tồn tại, và các để có được dạng kiểu sâu này đó chính là việc dùng mảng với kiểu char. Trong C++, để dùng string ta cần thêm thư viện `<string>`. Nhưng trong Arduino đã có kiểu dữ sâu sẵn đó là String (với chữ S viết hoa). Nó hoạt động tương tự như kiểu sâu trong C++, là mảng chứa các ký tự khác nhau, điều này sẽ được đề cập rõ hơn ở phần Mảng.&#x20;
+Trong C, kiểu sâu thậm chí không tồn tại, và các để có được dạng kiểu sâu này đó chính là việc dùng mảng với kiểu char. Trong C++, để dùng string ta cần thêm thư viện `<string>`. Nhưng trong Arduino đã có kiểu dữ sâu sẵn đó là `String` (với chữ S viết hoa). Nó hoạt động tương tự như kiểu sâu trong C++, là mảng chứa các ký tự khác nhau, điều này sẽ được đề cập rõ hơn ở phần Mảng.&#x20;
 
+{% hint style="info" %}
+Đây là kiến thức cơ bản và là nền tảng để bắt đầu với lập trình, tuy nhiên hiện tại bạn chỉ cần ghi nhớ như sau:
+
+* Nếu bạn chỉ cần làm việc với số nguyên, hãy dùng `int`.
+* Nếu bạn cần làm chức năng cần sử dụng đến số thập phân hoặc tính toán, dùng `float` hoặc `double`.
+* Nếu bạn chỉ cần làm việc với một ký tự duy nhất, dùng `char`.
+* Nếu bạn chỉ cần làm việc với một dãy chữ như một từ hoặc 1 câu văn, dùng `string`.
+
+Ngoài các kiểu dữ liệu định sẵn ra, bạn có thể tự tạo ra một kiểu dữ liệu mà bạn tự định nghĩa. Tuy nhiên điều này sẽ không được đề cập trong tài liệu này.
+{% endhint %}

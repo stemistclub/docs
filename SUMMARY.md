@@ -17,7 +17,9 @@
       * [Các IDE phổ biến dành cho Arduino](programming/arduino/thiet-lap-moi-truong-phat-trien-cho-arduino/bo-phan-mem-phat-trien-arduino-moi-truong-phat-trien-tich-hop/cac-ide-pho-bien-danh-cho-arduino.md)
     * [Cài đặt trình điều khiển (driver) dành cho USB to Serial](programming/arduino/thiet-lap-moi-truong-phat-trien-cho-arduino/cai-dat-trinh-dieu-khien-driver-danh-cho-usb-to-serial.md)
   * [Cấu trúc một chương trình Arduino](programming/arduino/cau-truc-mot-chuong-trinh-arduino.md)
+  * [Biến trong C++](programming/arduino/bien-trong-c++.md)
   * [Kiểu dữ liệu định sẵn](programming/arduino/kieu-du-lieu.md)
+  * [Toán tử](programming/arduino/toan-tu.md)
 * [Java (FTC SDK)](programming/java-ftc-sdk.md)
 
 ## Thiết kế Cơ Khí <a href="#design-cad" id="design-cad"></a>
