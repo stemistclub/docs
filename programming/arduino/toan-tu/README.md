@@ -26,3 +26,12 @@ Toán tử trong C++ được chia thành các nhóm toán tử sau:&#x20;
 * [toan-tu-so-sanh.md](toan-tu-so-sanh.md "mention")
 * [toan-tu-logic.md](toan-tu-logic.md "mention")
 
+{% hint style="warning" %}
+Bởi toán tử là một trong những nền tảng quan trọng trong lập trình, nên bạn cần phải hiểu rõ tất cả các toán tử.&#x20;
+{% endhint %}
+
+{% hint style="info" %}
+Tuy nhiên đối với những người chưa có kinh nghiệm về lập trình từ trước, việc "học" các toán tử này sẽ thấy khó khăn, điều này có thể giải quyết bằng cách tạo "liên hệ" với nó. Ví dụ như `=` là gắn, vậy nếu muốn so sánh xem biến a có giá trí bằng 2 hay không thì ta phải dùng `==`. Từ `==` mà muốn kiểm tra khác 2 thì ta thay `==` thành `!=`,... &#x20;
+
+Nếu bạn vẫn gặp khó khăn, hãy cứ xem đây là nơi tổng hợp các toán tử mà bạn cần để có thể tra cứu lại. Theo thời gian bạn sẽ quen với điều đó và dần không cần đến tài liệu này nữa.
+{% endhint %}

@@ -41,7 +41,10 @@ Là kiểu dữ liệu dùng để lưu trữ các số thập phân (ví dụ n
 * Là kiểu dữ liệu được định nghĩa bằng từ khoá `bool` và chỉ có thể nhận được hai giá trị duy nhất đó là `True` hoặc `False`.&#x20;
 * Khi Boolean được trả về sẽ trả về `True` = `1` hoặc `False` = `0`.
 * Kiểu ký tự `bool` có kích cỡ là 1 byte.
-* Kiểu Boolean thường hay được sử dụng để làm điều kiện kiểm tra, và sẽ được nhắc đến trong hàm điều kiện.
+
+{% hint style="info" %}
+Kiểu Boolean thường hay được sử dụng để làm điều kiện kiểm tra, và sẽ được nhắc đến trong hàm điều kiện.
+{% endhint %}
 
 #### Ký tự
 
