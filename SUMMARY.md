@@ -3,6 +3,7 @@
 * [👋 Chào mừng bạn đến với Stemist Club](README.md)
 * [Robot là gì ?](robot-la-gi.md)
 * [Cơ cấu chấp hành (Actuator)](co-cau-chap-hanh-actuator.md)
+* [MỘT SỐ DỤNG CỤ CƠ KHÍ CƠ BẢN & NGUYÊN TÁC AN TOÀN KHI SỬ DỤNG](mot-so-dung-cu-co-khi-co-ban-and-nguyen-tac-an-toan-khi-s-dung.md)
 
 ## Lập trình <a href="#programming" id="programming"></a>
 

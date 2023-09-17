@@ -40,7 +40,7 @@ Cũng tương tự với Zip Tie Intake nhưng hiệu quả hơn cơ chế này 
 
 {% embed url="https://youtu.be/E3m-9dlbaB8" %}
 
-### 3. Rubber Band Intake
+### 3. Rubber Band Intake (Intake cao su)
 
 * Nguyên lý hoạt động:&#x20;
   * Thường có bánh xích, bánh xe hoặc bánh răng ở hai đầu, với các dải cao su xen kẽ ở giữa để tạo thành một con lăn dẻo và có thể uốn cong.
@@ -55,4 +55,6 @@ Cũng tương tự với Zip Tie Intake nhưng hiệu quả hơn cơ chế này 
 {% embed url="https://www.youtube.com/shorts/GplqvguW--0" %}
 
 ### 4. Roller and Wheeled Intake
+
+
 
