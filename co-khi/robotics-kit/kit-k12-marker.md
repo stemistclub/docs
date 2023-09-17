@@ -109,11 +109,14 @@ Việc điều khiển servo thường yêu cầu xung với thời gian khoản
 
 ### 6. **Nhôm định hình 1515.**
 
-*
+* Nhôm định hình 1515 nhẹ, độ cứng vừa phải, thích hợp cho các kết cấu bot đơn giản và hoạt động với tần suất trung bình.
+* Khá khó tìm kiếm trên thị trường vì nhu cầu thấp trong công nghiệp.
+
+
 
 ### 7. **Các phụ kiện gá, bánh xe,...**
 
-*
+* Bộ phụ kiện gá bao gồm bộ gá các loại và bánh xe. Các bộ gá giúp định hình các thanh nhôm hoặc các linh kiện của robot vào đúng hướng yêu cầu của người sử dụng. Là một bộ phận quan trọng của bất cứ một sản phẩm robotics nào nhưng giá thành rẻ và vô cùng phổ biến.
 
 
 
