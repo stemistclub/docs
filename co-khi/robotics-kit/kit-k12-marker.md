@@ -114,7 +114,9 @@ Việc điều khiển servo thường yêu cầu xung với thời gian khoản
 * Nhôm định hình 1515 nhẹ, độ cứng vừa phải, thích hợp cho các kết cấu bot đơn giản và hoạt động với tần suất trung bình.
 * Khá khó tìm kiếm trên thị trường vì nhu cầu thấp trong công nghiệp.
 
+<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 ### 7. **Các phụ kiện gá, bánh xe,...**
 
