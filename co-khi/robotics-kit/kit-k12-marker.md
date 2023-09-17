@@ -88,6 +88,8 @@ Pin còn đi kèm với một vôn kế giúp đo pin.
 
 ### 5. **Động cơ servo MG996r 180/360 độ.**
 
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Servo MG996R</p></figcaption></figure>
+
 * Servo MG996R (nâng cấp MG995) có momen xoắn lớn. Đây là bản nâng cấp từ servo MG995 về tốc độ, lực kéo và độ chính xác đồng thời vừa nhanh hơn và cũng vừa nhỏ gọn hơn.
 * Momen làm việc : 11kg/cm (tại điện áp 6V) , 9.4kg/cm (tại điện áp 4.8V)
 * Tốc độ xoay: 0.17 giây / 60 độ (4.8 v) 0.14 giây / 60 độ (6 v)
