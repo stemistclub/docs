@@ -24,6 +24,7 @@
     * [Toán tử gán](programming/arduino/toan-tu/toan-tu-gan.md)
     * [Toán tử so sánh](programming/arduino/toan-tu/toan-tu-so-sanh.md)
     * [Toán tử logic](programming/arduino/toan-tu/toan-tu-logic.md)
+  * [Hàm điều kiện](programming/arduino/ham-dieu-kien.md)
 * [Java (FTC SDK)](programming/java-ftc-sdk.md)
 
 ## Thiết kế Cơ Khí <a href="#design-cad" id="design-cad"></a>
