@@ -39,3 +39,4 @@
   * [Kit K12 Marker](co-khi/robotics-kit/kit-k12-marker.md)
 * [DRIVEBASE](co-khi/drivebase.md)
 * [INTAKE](co-khi/intake.md)
+* [SHOOTER](co-khi/shooter.md)
