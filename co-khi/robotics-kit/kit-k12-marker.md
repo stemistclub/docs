@@ -116,7 +116,9 @@ Việc điều khiển servo thường yêu cầu xung với thời gian khoản
 
 <figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 ### 7. **Các phụ kiện gá, bánh xe,...**
 
