@@ -37,6 +37,7 @@
 
 ## Cơ Khí
 
+* [Page](co-khi/page.md)
 * [Robotics Kit](co-khi/robotics-kit/README.md)
   * [Kit K12 Marker](co-khi/robotics-kit/kit-k12-marker.md)
 * [DRIVEBASE](co-khi/drivebase.md)
