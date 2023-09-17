@@ -118,8 +118,6 @@ Việc điều khiển servo thường yêu cầu xung với thời gian khoản
 
 <figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
-
 ### 7. **Các phụ kiện gá, bánh xe,...**
 
 * Bộ phụ kiện gá bao gồm bộ gá các loại và bánh xe. Các bộ gá giúp định hình các thanh nhôm hoặc các linh kiện của robot vào đúng hướng yêu cầu của người sử dụng. Là một bộ phận quan trọng của bất cứ một sản phẩm robotics nào nhưng giá thành rẻ và vô cùng phổ biến.
