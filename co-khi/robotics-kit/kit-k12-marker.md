@@ -80,6 +80,8 @@ Bộ kit K12 Maker được ra đời để giúp các bạn trẻ vượt qua t
 
 Pin còn đi kèm với một vôn kế giúp đo pin.
 
+<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption><p>Mạch đo pin đi kèm cùng Kit K12</p></figcaption></figure>
+
 
 
 ### 4. **Các động cơ DC 555 12V 180/300/1500RPM.**
