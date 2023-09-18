@@ -75,7 +75,11 @@ Ví dụ: Thước( thước lá, thước do góc, thước cặp…), cưa, c�
 
     * Mỏ hàn xung hoạt động dựa vào hiện tượng đoản mạch giữa các đầu mỏ hàn và chì hàn để làm nóng chảy chì hàn và các giọt kim loại nhỏ xuống chính là mối hàn.
 
-    ![](https://lh3.googleusercontent.com/V404Fl4yC9BXaNC8QGDGymInPgKmdaeG\_sidSfzLBTKoEmtFVX-CUHL97yUDNBN0vzqQuNHC-PSTk2fqFwVsZsMWrKP3sgwlZc0pv10Afbw3LWEknLmwWyH1K7r41ma7n3Y9SICLacZi-KEDkN6s19o)<img src="https://lh5.googleusercontent.com/rQ8VtESmeB0lGF60RJ0SOAHfp79U9jnbtGnzxbNDLMvp4gbxpy-qDQKtY3Bzt1OuRu1KrW9eSbR3ZiEgr244Q7PLd1az8Fa-Mu-8T_fUZhVHXkl-vHk-D1Mr_83kXirylSRL65k5oSDlyBVn48lGpt8" alt="" data-size="original">
+
+
+    <figure><img src="https://lh3.googleusercontent.com/V404Fl4yC9BXaNC8QGDGymInPgKmdaeG_sidSfzLBTKoEmtFVX-CUHL97yUDNBN0vzqQuNHC-PSTk2fqFwVsZsMWrKP3sgwlZc0pv10Afbw3LWEknLmwWyH1K7r41ma7n3Y9SICLacZi-KEDkN6s19o" alt=""><figcaption></figcaption></figure>
+
+    <figure><img src="https://lh5.googleusercontent.com/rQ8VtESmeB0lGF60RJ0SOAHfp79U9jnbtGnzxbNDLMvp4gbxpy-qDQKtY3Bzt1OuRu1KrW9eSbR3ZiEgr244Q7PLd1az8Fa-Mu-8T_fUZhVHXkl-vHk-D1Mr_83kXirylSRL65k5oSDlyBVn48lGpt8" alt=""><figcaption></figcaption></figure>
 *   Máy khò nhiệt:&#x20;
 
     * Công cụ thổi hơi nóng thiết kế hiện đại, an toàn được sử dụng để lột sơn, loại bỏ mảng bám, tháo mối hàn, kết dính và tạo hình vật liệu tiện lợi.
