@@ -33,7 +33,7 @@
 * [Bắt đầu với Thiết kế Cơ Khí](design-cad/bat-dau-voi-thiet-ke-co-khi/README.md)
   * [Mở đầu](design-cad/bat-dau-voi-thiet-ke-co-khi/mo-dau.md)
   * [Quy trình thiết kế](design-cad/bat-dau-voi-thiet-ke-co-khi/quy-trinh-thiet-ke.md)
-* [Hướng dẫn với Fusion 360](design-cad/huong-dan-voi-fusion-360/README.md)
+* [Hướng dẫn với Fusion 360](design-cad/huong-dan-voi-fusion-360.md)
   * [Page](design-cad/huong-dan-voi-fusion-360/page.md)
   * [Page 1](design-cad/huong-dan-voi-fusion-360/page-1.md)
   * [Page 2](design-cad/huong-dan-voi-fusion-360/page-2.md)
@@ -41,7 +41,7 @@
 
 ## Cơ Khí
 
-* [Giới thiệu về Cơ khí](co-khi/gioi-thieu-ve-co-khi.md)
+* [Giới thiệu về Cơ khí](co-khi/page.md)
 * [Robotics Kit](co-khi/robotics-kit/README.md)
   * [Kit K12 Marker](co-khi/robotics-kit/kit-k12-marker.md)
 * [DRIVEBASE](co-khi/drivebase.md)
