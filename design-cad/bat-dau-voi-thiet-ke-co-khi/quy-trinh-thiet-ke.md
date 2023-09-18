@@ -12,7 +12,7 @@ Nhìn chung, đây là những bước cơ bản để tạo nên một bản v�
 * Thử nghiệm: Kiểm tra các khả năng của bản mẫu có đáp ứng được mục đích tạo ra hay là không. Phần này cần thực hiện cực kì cẩn thận nhằm phát hiện những lỗi thiết kế từ nhỏ nhặt cho đến nghiêm trọng nhất.&#x20;
 * Phân tích kết quả: Nếu bản thiết kế mẫu chưa đáp ứng đủ các tiêu chí đã đặt ra, vậy hãy xem xét lại các lỗi đang hiện có và điều chỉnh cho phù hợp. Còn nếu bản thiết kế đã đáp ứng đủ các tiêu chí, bản vẽ sẽ được chốt và sẽ vẽ dưới định dạng 3D.
 
-Lấy ví dụ, hãy&#x20;
+Lấy ví dụ, hãy thiết kế lại mô hình bot
 
 
 
