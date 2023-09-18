@@ -47,3 +47,4 @@
 * [DRIVEBASE](co-khi/drivebase.md)
 * [INTAKE](co-khi/intake.md)
 * [SHOOTER](co-khi/shooter.md)
+* [CLIMBER](co-khi/climber.md)
