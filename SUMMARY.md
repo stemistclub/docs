@@ -45,6 +45,9 @@
   * [Page 1](design-cad/huong-dan-voi-fusion-360/page-1.md)
   * [Page 2](design-cad/huong-dan-voi-fusion-360/page-2.md)
   * [Page 3](design-cad/huong-dan-voi-fusion-360/page-3.md)
+  * [Autodesk Fusion 360](design-cad/huong-dan-voi-fusion-360/autodesk-fusion-360.md)
+  * [Hướng dẫn cài đặt](design-cad/huong-dan-voi-fusion-360/huong-dan-cai-dat.md)
+  * [Page 1](design-cad/huong-dan-voi-fusion-360/page-1-1.md)
 
 ## Cơ Khí
 
