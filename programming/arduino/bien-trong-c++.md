@@ -47,7 +47,7 @@ x = y = z = 50; // Cả 3 biến x,y,z đều có giá trị là 50
 Trong C++ có rất nhiều các kiểu dữ liệu, bao gồm các kiểu dữ liệu được định sẵn. Ngoài ra bạn cũng có thể tạo ra kiểu dữ liệu của mình.&#x20;
 
 {% hint style="info" %}
-Trong bài tiếp theo bạn sẽ được biết về các kiểu dữ liệu định sẵn, bao gồm các kiểu dữ liệu cơ bản và phổ biến nhất. Xem thêm tại [kieu-du-lieu-dinh-san.md](kieu-du-lieu-dinh-san.md "mention").
+Trong bài tiếp theo bạn sẽ được biết về các kiểu dữ liệu định sẵn, bao gồm các kiểu dữ liệu cơ bản và phổ biến nhất. Xem thêm tại [kieu-du-lieu.md](kieu-du-lieu.md "mention").
 {% endhint %}
 
 ## Tên biến
