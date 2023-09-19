@@ -12,8 +12,18 @@ Khác với các hướng dẫn khác, khi bạn sẽ được viết thử các
 Việc bố trí tài liệu theo hướng này được đánh giá là không thân thiện đối với người mới. Nhưng một khi bạn đã hiểu về lập trình, tài liệu này sẽ rất có ích với bạn bởi mọi thứ sẽ rất rõ ràng, không phải tìm hiểu hàm này thông qua một ứng dụng cụ thể...
 {% endhint %}
 
+{% hint style="danger" %}
+Hướng dẫn trong phần này hướng đến các hàm cốt lõi trong C++ và ứng dụng nó vào lập trình Arduino.
+
+Khác với các hướng dẫn lập trình C++ khi bạn sẽ được biết đến các hàm về đầu vào / đầu ra phổ biến như `cout`, `cin`,... Tài liệu này sẽ chỉ hướng chung là cốt lõi của C++ bởi bản thân các hàm như `cout`,`cin` đều nằm trong thư viện của Standart Input / Output.&#x20;
+
+Trong Arduino có cách giao tiếp có thể coi là "tương tự" CLI đó là Serial, trong phần riêng về Serial bạn sẽ biết rõ hơn về cách giao tiếp Serial.
+
+Trong hướng dẫn này sẽ chứa hàm `Serial.println();` hiện tại bạn chỉ cần biết rằng nội dung của hàm này là sẽ hiển thị ra màn hình Serial. Cụ thể hơn sẽ được nói trong bài Serial.
+{% endhint %}
+
 {% hint style="info" %}
-Nếu bạn cảm thấy khó khăn mà vẫn muốn học theo cách bố trí trong tài liệu này, bạn chỉ cần học đến [ham-dieu-kien](ham-dieu-kien/ "mention"), và sau đó bạn có thể chuyển sang [arduino-co-ban.md](../arduino-co-ban.md "mention"). Khi bạn đã thuần thục việc sử dụng các hàm cơ bản đã được học trước đó, bạn có thể chuyển qua phần tiếp theo trong [.](./ "mention") như [switch.md](switch.md "mention").
+Nếu bạn cảm thấy khó khăn mà vẫn muốn học theo cách bố trí trong tài liệu này, bạn chỉ cần học đến [ham-dieu-kien](ham-dieu-kien/ "mention"), và sau đó bạn có thể chuyển sang [arduino-co-ban](../arduino-co-ban/ "mention"). Khi bạn đã thuần thục việc sử dụng các hàm cơ bản đã được học trước đó, bạn có thể chuyển qua phần tiếp theo trong [.](./ "mention") như [switch.md](switch.md "mention").
 {% endhint %}
 
 {% hint style="info" %}
