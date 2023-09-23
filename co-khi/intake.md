@@ -67,5 +67,5 @@ Cũng tương tự với Zip Tie Intake nhưng hiệu quả hơn cơ chế này 
   * Cho phép quá trình thu thập diễn ra một cách liên tục, mượt mà và không bị gián đoạn.
 * Điểm yếu:&#x20;
 
-
+{% embed url="https://www.youtube.com/watch?v=bimGSU00c5A" %}
 
