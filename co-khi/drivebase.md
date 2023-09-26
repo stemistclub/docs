@@ -30,10 +30,12 @@
 ### 2. **Drivebase Tank**
 
 * Còn đây là loại drivebase dành cho các đội mới của các giải robotics quốc tế (FGC, FRC, FTC, …)
-* Bao gồm: 4 bánh phay nhôm, 2 động cơ DC, nhông xích
-* Nguyên lý hoạt động: Động cơ gắn với trục dẫn động trực tiếp vào bánh xe ở cuối bot và truyền động qua xích đến bánh xe ở đầu. Hai bên bánh xe chạy riêng biệt nhau
+* Bao gồm: 6 bánh phay nhôm, 4 động cơ DC, nhông xích
+* Nguyên lý hoạt động: Động cơ gắn với trục dẫn động trực tiếp vào bánh xe và truyền động qua xích đến bánh xe ở hai đầu. Hai bên bánh xe chạy riêng biệt nhau
 * Điểm mạnh: Ma sát tốt nên khả năng bám trên mặt đường tốt, có thể rẽ được sang các hướng khác nhau. Truyền động bằng xích nên khá chắc chắn, đảm bảo tốc độ các bánh bằng nhau.
 * Điểm yếu: Việc di chuyển đa hướng vẫn có một số bất tiện, chưa được linh hoạt.
+
+<figure><img src="https://lh5.googleusercontent.com/V7UjINX8XjUdrFPvRUFjU6AGizmUq5vig8KOVECRyJzLYyt0RCIeTTETZdyjxstVX606-PfpKa51Ug8oSGXw1W71SP1p7cZOt7j3QDVJDuFyAGEmzieB_gN5nVUj16xzkoNzLDBKkbVOqqrejww8yNk" alt=""><figcaption></figcaption></figure>
 
 ### 3. **Drivebase Mecanum**
 
