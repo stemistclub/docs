@@ -33,7 +33,13 @@
     * [Cài đặt trình điều khiển (driver) dành cho USB to Serial](programming/arduino/thiet-lap-moi-truong-phat-trien-cho-arduino/cai-dat-trinh-dieu-khien-driver-danh-cho-usb-to-serial.md)
   * [Cấu trúc một chương trình Arduino](programming/arduino/cau-truc-mot-chuong-trinh-arduino.md)
   * [Arduino cơ bản](programming/arduino/arduino-co-ban/README.md)
-    * [Page 4](programming/arduino/arduino-co-ban/page-4.md)
+    * [Các dạng tín hiệu](programming/arduino/arduino-co-ban/cac-dang-tin-hieu/README.md)
+      * [Tín hiệu Analog](programming/arduino/arduino-co-ban/cac-dang-tin-hieu/tin-hieu-analog.md)
+      * [Tín hiệu kỹ thuật số (Digital)](programming/arduino/arduino-co-ban/cac-dang-tin-hieu/tin-hieu-ky-thuat-so-digital.md)
+      * [Pulse-width modulation (PWM)](programming/arduino/arduino-co-ban/cac-dang-tin-hieu/pulse-width-modulation-pwm.md)
+    * [Nhập / Xuất (I/O)](programming/arduino/arduino-co-ban/nhap-xuat-i-o/README.md)
+      * [Nhập xuất Digital](programming/arduino/arduino-co-ban/nhap-xuat-i-o/nhap-xuat-digital.md)
+      * [Nhập xuất Analog](programming/arduino/arduino-co-ban/nhap-xuat-i-o/nhap-xuat-analog.md)
 * [Java (FTC SDK)](programming/java-ftc-sdk.md)
 
 ## Thiết kế Cơ Khí <a href="#design-cad" id="design-cad"></a>
