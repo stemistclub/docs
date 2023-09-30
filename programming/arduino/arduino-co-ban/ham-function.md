@@ -25,3 +25,20 @@ float doSum(float a,float b) {
 ```
 
 Trong ví dụ trên, hàm được định nghĩa có tên là `doSum` với kiểu hàm là `float` (số thực) với tham số là 2 giá trị thực `a` và `b`. Khi phân tích nội dung hàm thì ta dễ thấy rằng biến thực `sum` được gán giá trị là toán tử tổng của `a` và `b`. Sau đó hàm kết thúc với giá trị được trả về là giá trị của biến `sum`.
+
+## Kiểu hàm
+
+Kiều hàm hỗ trợ tất cả các kiểu dữ liệu trong C++ được sử dụng trong biến, ngoài ra có thêm một ngoại lệ đó chính là `void`. Đồng nghĩa với đó là ngoài void ra thì ta có thể trả về giá trị nguyên, thực, một mảng (array) hay là một chuỗi xâu.
+
+### Từ khoá `void`
+
+`void` là một từ khóa chỉ dùng trong việc khai báo một function. Những function được khai báo với "`void`" sẽ không trả về bất kì dữ liệu nào khi được gọi. Hiểu đơn giản hơn, hàm với kiểu void không cần `return`.
+
+```cpp
+void initSensor() {
+  pinMode(trigPin1, OUTPUT);
+  pinMode(echoPin1, INPUT);
+  distance = 0;
+}
+```
+
