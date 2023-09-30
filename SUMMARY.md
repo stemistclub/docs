@@ -40,6 +40,7 @@
     * [Nhập / Xuất (I/O)](programming/arduino/arduino-co-ban/nhap-xuat-i-o/README.md)
       * [Nhập xuất Digital](programming/arduino/arduino-co-ban/nhap-xuat-i-o/nhap-xuat-digital.md)
       * [Nhập xuất Analog](programming/arduino/arduino-co-ban/nhap-xuat-i-o/nhap-xuat-analog.md)
+    * [Hàm (Function)](programming/arduino/arduino-co-ban/ham-function.md)
 * [Java (FTC SDK)](programming/java-ftc-sdk.md)
 
 ## Thiết kế Cơ Khí <a href="#design-cad" id="design-cad"></a>
