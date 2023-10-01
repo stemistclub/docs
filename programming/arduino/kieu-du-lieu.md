@@ -19,7 +19,7 @@ Là kiểu dữ liệu dùng để lưu trữ số nguyên (bao gồm cả số 
 
 Mặc dù các kiểu dữ liệu định sẵn ở trên chưa phải là đầy đủ nhất, nhưng bạn không cần quan tâm đến các kiểu dữ liệu ở trên mà chỉ tập trung duy nhất vào kiểu dữ liệu `int` nếu bạn muốn biểu diễn một số nguyên. Các kiểu dữ liệu khác sẽ hữu ích trong tương lai nhưng về cơ bản bạn chỉ cần quan tâm đến `int`.
 
-### Số thực&#x20;
+### Số chấm động.&#x20;
 
 Là kiểu dữ liệu dùng để lưu trữ các số thập phân (ví dụ như -1.5, 3.14).&#x20;
 
@@ -29,7 +29,7 @@ Là kiểu dữ liệu dùng để lưu trữ các số thập phân (ví dụ n
 | `double`      | 8               | -1.7×10^308 to1.7×10^308   |
 | `long double` | 12              | -1.1×10^4932 to1.1×10^4932 |
 
-* **Độ chính xác** của số thực là số chữ số nằm sau dấu . mà kiểu dữ liệu đó có thể lưu trữ được.
+* **Độ chính xác** của số chấm động là số chữ số nằm sau dấu . mà kiểu dữ liệu đó có thể lưu trữ được.
 * `float` có thể lưu trữ được đến 6 hoặc 7 chữ số.
 * `double` thì lại có thể lưu trữ được đến 15 chữ số.&#x20;
 * Với các phép tính toán, bạn nên dùng `double` để đảm bảo về độ chính xác.
@@ -68,3 +68,4 @@ Trong C, kiểu sâu thậm chí không tồn tại, và các để có được
 
 Ngoài các kiểu dữ liệu định sẵn ra, bạn có thể tự tạo ra một kiểu dữ liệu mà bạn tự định nghĩa. Tuy nhiên điều này sẽ không được đề cập trong tài liệu này.
 {% endhint %}
+
