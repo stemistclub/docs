@@ -60,12 +60,12 @@
   * [Hướng dẫn cài đặt](design-cad/huong-dan-voi-fusion-360/huong-dan-cai-dat.md)
   * [Page 1](design-cad/huong-dan-voi-fusion-360/page-1-1.md)
 
-## Cơ Khí
+## Cơ Khí <a href="#mechanic" id="mechanic"></a>
 
-* [Giới thiệu về Cơ khí](co-khi/page.md)
-* [Robotics Kit](co-khi/robotics-kit/README.md)
-  * [Kit K12 Marker](co-khi/robotics-kit/kit-k12-marker.md)
-* [DRIVEBASE](co-khi/drivebase.md)
-* [INTAKE](co-khi/intake.md)
-* [SHOOTER](co-khi/shooter.md)
-* [CLIMBER](co-khi/climber.md)
+* [Giới thiệu về Cơ khí](mechanic/gioi-thieu-ve-co-khi.md)
+* [Robotics Kit](mechanic/robotics-kit/README.md)
+  * [Kit K12 Marker](mechanic/robotics-kit/kit-k12-marker.md)
+* [DRIVEBASE](mechanic/drivebase.md)
+* [INTAKE](mechanic/intake.md)
+* [SHOOTER](mechanic/shooter.md)
+* [CLIMBER](mechanic/climber.md)
