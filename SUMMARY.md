@@ -29,6 +29,7 @@
     * [Vòng lặp for](programming/arduino/c++-co-ban/vong-lap-for.md)
     * [Mảng](programming/arduino/c++-co-ban/mang/README.md)
       * [Mảng và lòng lặp](programming/arduino/c++-co-ban/mang/mang-va-long-lap.md)
+    * [Break / Continue](programming/arduino/c++-co-ban/break-continue.md)
   * [Cấu tạo của mạch Arduino](programming/arduino/cau-tao-cua-mach-arduino.md)
   * [Thiết lập môi trường phát triển cho Arduino](programming/arduino/thiet-lap-moi-truong-phat-trien-cho-arduino/README.md)
     * [Bộ phần mềm phát triển Arduino – Môi trường phát triển tích hợp](programming/arduino/thiet-lap-moi-truong-phat-trien-cho-arduino/bo-phan-mem-phat-trien-arduino-moi-truong-phat-trien-tich-hop/README.md)
