@@ -4,7 +4,7 @@
 
 Tín hiệu kỹ thuật số (Digital) là tín hiệu được biểu diễn bởi giá trị cố định, và chỉ có thể biểu diễn một giá trị cố định trong một thời điểm giới hạn (đối lập với Analog khi Analog biểu diễn gần như vô số giá trị).
 
-<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Giá trị digital được biểu diễn ở 2 mức tín hiệu cơ bản, một tín hiệu gần mốc ( gần với mức 0 hay còn gọi là ground), và một mức điện áp định mức ( thường là 5V ). Thường hai giá trị này được gán với số 0 (ground) và số 1 (supply current) giống như dạng mã nhị phân (binary) và với boolean thì là False với True.
 

@@ -69,4 +69,4 @@
 * [DRIVEBASE](mechanic/drivebase.md)
 * [INTAKE](mechanic/intake.md)
 * [SHOOTER](mechanic/shooter.md)
-* [CLIMBER](mechanic/climber.md)
+* [🏋 LIFTING MECHANI](mechanic/lifting-mechani.md)
