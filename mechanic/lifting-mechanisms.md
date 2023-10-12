@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# 🏋 LIFTING MECHANI
+# 🏋 LIFTING MECHANISMs
 
 
 
