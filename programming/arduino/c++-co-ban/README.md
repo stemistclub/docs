@@ -23,7 +23,7 @@ Trong hướng dẫn này sẽ chứa hàm `Serial.println();` hiện tại bạ
 {% endhint %}
 
 {% hint style="info" %}
-Nếu bạn cảm thấy khó khăn mà vẫn muốn học theo cách bố trí trong tài liệu này, bạn chỉ cần đọc đến [ham-dieu-kien](ham-dieu-kien/ "mention"), và sau đó bạn có thể chuyển sang [arduino-co-ban](../arduino-co-ban/ "mention"). Khi bạn đã thuần thục việc sử dụng các hàm cơ bản đã được học trước đó, bạn có thể chuyển qua phần tiếp theo trong [.](./ "mention") như [switch.md](switch.md "mention").
+Nếu bạn cảm thấy khó khăn mà vẫn muốn học theo cách bố trí trong tài liệu này, bạn chỉ cần đọc đến [ham-dieu-kien](ham-dieu-kien/ "mention"), và sau đó bạn có thể chuyển sang [arduino](../arduino/ "mention"). Khi bạn đã thuần thục việc sử dụng các hàm cơ bản đã được học trước đó, bạn có thể chuyển qua phần tiếp theo trong [.](./ "mention") như [switch.md](switch.md "mention").
 {% endhint %}
 
 {% hint style="info" %}
