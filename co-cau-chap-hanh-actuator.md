@@ -49,3 +49,5 @@ Về cơ bản, cấu tạo bên trong của **động cơ DC servo** (hay độ
 <figure><img src=".gitbook/assets/mg996r.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 Ngoài ra, bộ kit K12 Maker cung cấp thêm một loại động cơ biến thể của MG996r, tạm gọi là **động cơ servo 360 độ.** Động cơ này được thay đổi một số chi tiết bên trong khiến nó có khả năng **quay tròn** liên tục (thay vì quay đến một vị trí góc nhất định như động cơ MG996r nguyên bản).
+
+Sản phẩm phù hợp để ứng dụng vào các ứng dụng sáng tạo như làm cánh tay robot chuyển động, làm robot nhện, cơ cấu quay góc,… tùy vào sở thích của người dùng.
