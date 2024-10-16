@@ -48,6 +48,12 @@
     * [Hàm (Function)](programming/arduino/arduino/ham-function.md)
     * [Điều khiển Servo](programming/arduino/arduino/dieu-khien-servo.md)
 * [Java (FTC SDK)](programming/java-ftc-sdk.md)
+* [Flowchart](programming/flowchart/README.md)
+  * [Các ký hiệu cơ bản trong Flowchart](programming/flowchart/cac-ky-hieu-co-ban-trong-flowchart/README.md)
+    * [Cách tạo Flowchart](programming/flowchart/cac-ky-hieu-co-ban-trong-flowchart/cach-tao-flowchart.md)
+  * [PlantUML](programming/flowchart/plantuml/README.md)
+    * [Viết chương trình Flowchart bằng PlanUML](programming/flowchart/plantuml/viet-chuong-trinh-flowchart-bang-planuml.md)
+    * [Các cú pháp cơ bản & nâng cao](programming/flowchart/plantuml/cac-cu-phap-co-ban-and-nang-cao.md)
 
 ## Thiết kế Cơ Khí <a href="#design-cad" id="design-cad"></a>
 
@@ -71,4 +77,4 @@
 * [DRIVEBASE](mechanic/drivebase.md)
 * [INTAKE](mechanic/intake.md)
 * [SHOOTER](mechanic/shooter.md)
-* [🏋 LIFTING MECHANISMs](mechanic/lifting-mechanisms.md)
+* [🏋️ LIFTING MECHANISMs](mechanic/lifting-mechanisms.md)

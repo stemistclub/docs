@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# 🏋 LIFTING MECHANISMs
+# 🏋️ LIFTING MECHANISMs
 
 
 
@@ -13,7 +13,7 @@ coverY: 0
   * Continuous lift: Các thanh nâng di chuyển lần lượt.&#x20;
 * Cấu tạo:
 
-![](../.gitbook/assets/image\_2023-10-12\_213104273.png)![](../.gitbook/assets/image.png)
+![](../.gitbook/assets/image\_2023-10-12\_213104273.png)![](<../.gitbook/assets/image (1).png>)
 
 
 
@@ -32,7 +32,7 @@ coverY: 0
 * Chỉ nâng được theo chiều thẳng đứng với cơ cấu là các liên kết gấp theo hình chữ X giống như cơ cấu chiếc kéo.&#x20;
 * Các chữ X này thường được chuyển động cắt kéo nhờ vào lực kéo 2 đầu cạnh xiên chữ X lại gần nhau của động cơ hoặc xy-lanh.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ##
 
